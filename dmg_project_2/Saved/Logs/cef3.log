@@ -1,0 +1,59 @@
+[1112/152629.240:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[1112/152629.241:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[1112/152629.241:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[1112/152629.241:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[1112/152629.241:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[1112/152629.241:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[1112/152637.255:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[1112/152637.256:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[1112/152637.259:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[1112/152637.259:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[1112/152722.268:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+[1112/152722.268:WARNING:pac_file_fetcher_impl.cc(268)] SSL certificate error when fetching PAC script, aborting.
+[1112/152723.756:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1112/152723.859:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1112/152724.055:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1112/152724.064:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1112/152724.268:ERROR:gl_utils.cc(314)] [.WebGL-000000A50417F400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152724.269:ERROR:gl_utils.cc(314)] [.WebGL-000000A50417F400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152724.269:ERROR:gl_utils.cc(314)] [.WebGL-000000A50417F400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152724.282:ERROR:gl_utils.cc(314)] [.WebGL-000000A50417F400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152724.284:ERROR:gl_utils.cc(314)] [.WebGL-000000A50417F400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152724.285:ERROR:gl_utils.cc(314)] [.WebGL-000000A50417F400] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152729.953:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1112/152729.955:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1112/152749.291:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[1112/152749.379:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[1112/152749.556:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1112/152749.557:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[1112/152749.748:ERROR:gl_utils.cc(314)] [.WebGL-000000A504515A00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152749.748:ERROR:gl_utils.cc(314)] [.WebGL-000000A504515A00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152749.748:ERROR:gl_utils.cc(314)] [.WebGL-000000A504515A00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152749.763:ERROR:gl_utils.cc(314)] [.WebGL-000000A504515A00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152749.763:ERROR:gl_utils.cc(314)] [.WebGL-000000A504515A00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152749.764:ERROR:gl_utils.cc(314)] [.WebGL-000000A504515A00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
+[1112/152827.311:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

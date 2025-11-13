@@ -1,0 +1,49 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/BP_RotatingBeam.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/footsteps/fs_cue.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/CY/3YJJXEAT0YT4IH850W4YHK.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Left.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Bwd_Right.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Left.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Fwd_Right.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Left.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jog/MF_Unarmed_Jog_Right.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/all_hups.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup1.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup2.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup3.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup4.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup5.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup6.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup7.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup8.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Jump.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/hups/hup_Cue.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/Characters/Mannequins/Anims/Unarmed/Jump/MM_Land.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/flowers_loop_noclipping.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/flowers_loop_noclipping_Cue.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/flowers_cue.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/7Z/2DWWGH6M8CO48UW9XGG79N.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs1.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs2.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs3.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs4.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs5.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs6.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs7.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs8.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs9.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/fs10.uasset",
+				"C:/Users/Kat/Desktop/Git/ARTS-2610-Project02/dmg_project_2/Content/MusicAndSoundEffects/all_fs.uasset"
+			]
+		}
+	]
+}
